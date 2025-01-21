@@ -1,1 +1,0 @@
-This pipeline simplifies the machine learning workflow by providing pre-defined components for data preprocessing, model training, hyperparameter tuning, and model evaluation. Whether you're a beginner or an experienced data scientist, this pipeline will help you focus on solving the problem rather than building the infrastructure.
